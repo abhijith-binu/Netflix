@@ -1,0 +1,257 @@
+.img1{
+    height: 60px;
+    padding-left: 49px;
+    padding-top: 7px;
+}
+.row3{
+    margin-left: 960px;
+}
+.row2{
+    margin-right: 60px;
+}
+.btn1{
+    background-color: #e50914;
+    padding: 7px;
+    width: 90px;
+    border-radius: 3px;
+    border: #e50914;
+}
+
+.section1{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('https://assets.nflxext.com/ffe/siteui/vlv3/a43711df-c428-4f88-8bb3-b2ac5f20608f/32935458-d049-44c2-b94b-32f16d60ded1/IN-en-20230227-popsignuptwoweeks-perspective_alpha_website_large.jpg')
+}
+.content{
+    margin-top: 130px;
+}
+.content1 h1{
+    font-size:  3.95rem;
+    font-weight: 500;
+}
+.s1{
+    text-align: center;
+    margin-left: 400px;
+}
+.content3{
+    margin-top: 130px;
+}
+.content3 h1{
+    color: white;
+    font-weight: 690;
+    font-size: 50px;
+}
+.video{
+    position: relative;
+    top: -380px;
+    left: 85px;
+}
+.video video{
+    width: 465px;
+
+}
+body{
+    background-color: rgb(45, 43, 43);
+}
+.content4 h1{
+    color: white;
+    font-weight: 690;
+    font-size: 50px;
+}
+.imgzz{
+    position: relative;
+    top: -110px;
+    margin-left: 170px;
+}
+.content4{
+    margin-right: 100px;
+}
+.section4{
+    position: relative;
+    top: -80px;
+}
+.im{
+    height: 420px;
+ 
+}
+.imgz00 video{
+    height: 450px;
+    width: 360px;
+    position: relative;
+    top: -135px;
+    padding-left: 20px;
+}
+.imgz00{
+    margin-top: 60px;
+}
+.content5{
+    margin-top: 160px;
+}
+.topup{
+    position: relative;
+    top: -80px;
+}
+.content5 h1{
+    color: white;
+    font-weight: 690;
+    font-size: 50px;
+}
+.imgzzs{
+    margin-top: 60px;
+    margin-left: 130px;
+}
+.content8{
+    margin-top: 130px;
+}
+.section6{
+    position: relative;
+    top: -430px;
+}
+.row10{
+    align-items: center;
+}
+.elements{
+    color: white;
+    background-color: red;
+    width: 650px;
+    height: 70px;
+    background-color: #333;;
+}
+.item01{
+    margin-left: 435px;
+
+}
+.bell{
+    position: relative;
+    top: -430px;
+}
+.item0{
+    margin-top: 100px;
+}
+.elements h3{
+    padding-top: 15px;
+    padding-right: 200px;
+}
+#Abh{
+  padding-right: 170px;
+}
+#abh2{
+    padding-right: 120px;
+}
+#abh3{
+    padding-right: 130px;
+}
+#abh4{
+    padding-right: 50px;
+}
+#sear{
+    margin-top: 30px;
+}
+.cont{
+    margin-left: 450px;
+}
+.rowwz1{
+    margin-left: 350px;
+}
+.sect2{
+    margin-left: 70px;
+}
+.sect3{
+    margin-left: 80px;
+}
+.sect4{
+    margin-left: 70px;
+}
+.num{
+    margin-left: 350px;
+    padding-top: 70px;  
+}
+.eng{
+    margin-left: 347px;
+    margin-top: 40px;
+    padding-bottom: 60px;
+}
+.net{
+    margin-left: 345px;
+    position: relative;
+    top: -40px;
+}
+.se1{
+    position: relative;
+    top: -430px;
+}
+body{
+    max-height: 700px;
+    overflow-x: hidden;
+}
+.yyy{
+    width: 650px;
+    height: 70px;
+}
+.sss{
+    margin-right: 430px;
+    position: relative;
+    top: -20px;
+}
+.list{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.list h1{
+    color: #fff;
+    font-size: 3rem;
+    padding: 3rem 0 4rem 0;
+}
+.title{
+    background-color: #303030;
+    padding: 20px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    font-size: 1.7rem;
+    font-weight: 400;
+    text-decoration: none;
+}
+.icon{
+    width: 20px;
+    position: relative;
+}
+.icon::before, .icon::after{
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 3px;
+    background-color: #fff;
+    top: -1.5px;
+}
+.icon::after{
+    transform: rotate(90deg);
+    transition: 0.5s linear;
+}
+.text{
+    background-color: #303030;
+    line-height: 35px;
+    margin: 3px 0;
+    color: #fff;
+    font-size: 1.7rem;
+    font-weight: 400;
+    height: 0;
+    opacity: 0; 
+}
+.item:target .text{
+    opacity: 1;
+    height: auto;
+    padding: 20px 30px;
+    margin: 0;
+    border-top: 2px solid #000;
+    margin-bottom: 6px;
+}
+.bbb{
+    position: relative;
+    top: -430px;
+}
